@@ -1,0 +1,48 @@
+.btnSearch{
+	border: 3px solid rgba(50, 50, 50, 0.1);
+	margin-bottom: 10px;
+	padding: 15px;
+	width: 100px;
+	
+	
+	font-family: 'Poppins', sans-serif;
+	font-size: 15px;
+	border-radius: 15px;
+	cursor: pointer;
+	color: #fff  ;
+	background-size: 130%;
+	transition: 0.7s
+     
+}; 
+
+
+.btnSearch:hover{
+	background-position: right;
+}
+
+
+
+
+.btnSearch{
+background-image: linear-gradient(to left, #00b7da, #161569, #00b7da);
+}
+
+
+
+.container{
+	display: flex;
+	justify-content: right;
+	padding-right: 10px;
+	padding-top: 15px;
+	padding-bottom: 10px;
+	background-color: black;
+
+}
+input{
+	width: 230px;
+	height: 45px;
+	display: flex;
+	margin-right: 10px;
+	margin-top: 5px;
+
+}
