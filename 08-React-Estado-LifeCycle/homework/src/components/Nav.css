@@ -1,0 +1,22 @@
+#logoHenry {
+  margin-right: 20px;
+}
+.barra-Nav{
+  display: flex;
+  justify-content: space-between;
+  padding-left: 35px;
+  padding-right: 35px ;
+  background-color: #D1CFCF;
+
+}
+.tituloH3{
+  margin-right: 50%;
+  margin-top: 5px;
+}
+ .btnSearch{
+  background-color: black;
+  height: 30px;
+  margin-top: 8px;
+  color: green;
+ }
+
